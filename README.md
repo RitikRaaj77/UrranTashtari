@@ -1,3 +1,4 @@
 # UrranTashtari
 A community OTT-platform 
-Author : Ritik Raj
+<br>
+Author: Ritik Raj
